@@ -1,0 +1,24 @@
+/CHAT_GPT/
+.DS_Store
+.session-archive/
+
+# --- 개인 세션 기록·내보내기 보호 (v0.2) ---
+# 이 Playbook 저장소에는 원본 세션 기록을 두지 않는다. 문서에는 요약과 줄 번호만 적는다.
+# ChatGPT 내보내기: 폴더·압축 파일·내부 파일
+/CHAT_GPT*/
+/CHAT_GPT*.zip
+conversations-*.json
+export_manifest.json
+shared_conversations.json
+message_feedback.json
+user_settings.json
+file-*.dat
+file_*.dat
+# Claude Code·Codex 세션 백업
+/claude-code/
+/codex/
+*.jsonl
+# 격리·보관 폴더
+/quarantine/
+# AI와 주고받는 소통 파일(승인 절차 문서 참조)
+codex_only_*

@@ -2,7 +2,7 @@
 
 ## A. 실사용 원문
 
-### A-1. Codex 감사 요청서 전문 (`codex1:25`, 사용자가 `codex_only_requests.md`로 제공. 초안 작성 도구는 [통합 대기])
+### A-1. Codex 감사 요청서 전문 (`codex1:25`, 사용자가 `codex_only_requests.md`로 제공. 초안은 ChatGPT가 작성, `gpt:6af696c2/011c2cdc`, [05-chatgpt.md](../case-studies/moel-ai/05-chatgpt.md))
 
 > # MOEL AI Desk — 독립 기술 설계 감사
 >

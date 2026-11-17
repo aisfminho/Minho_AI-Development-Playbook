@@ -14,6 +14,7 @@
 | [subagent-review-prompt.md](subagent-review-prompt.md) | 4·7·8 내부 검토 | 서브에이전트 감사 프롬프트(`55b37226` 서브 `ae2ab98d:1`) | 영역별 읽기 전용 검토 프롬프트 |
 | [audit-status-table.md](audit-status-table.md) | 7 감사 반영 | 상태표 머리말·행(`09fb2455:630`, `b1t5v1u06.txt`) | 상태표 + 용어 정의 |
 | [session-handoff-prompt.md](session-handoff-prompt.md) | 9 세션 | 실제 시작 프롬프트(짧음), 상태 문서 항목(`55b37226:241`), 태그 요청(`fc1439ba:846`) | 인계 문서 + 새 세션 프롬프트 + 태그 요청 |
+| [cross-review-prompt.md](cross-review-prompt.md) | 6·7 여러 AI 중계 | ChatGPT의 검토 범위 명시·방향 승인 분리·조건부 승인 문장(`gpt:6af696c2/2e1486a5`, `/6ef88671`, `/8bc0bf8e`) | 중계 검토 요청 + 답변 형식 + 지시문 전달 양식 (**v0.2 추가**) |
 
 ## 쓰는 법
 
